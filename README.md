@@ -4,7 +4,7 @@ Robotics researcher and engineer working at the intersection of **reinforcement 
 
 ![Visitors](https://komarev.com/ghpvc/?username=theriverroars&label=Profile%20Views&color=0e75b6&style=flat)
 ![Open to Work](https://img.shields.io/badge/Open%20to-Robotics%20Research-success)
-![Research](https://img.shields.io/badge/Focus-Legged%20Robotics-blue)
+![Research](https://img.shields.io/badge/Focus-Robot%20Learning-blue)
 
 🎓 M.Tech in Robotics, IISc Bangalore  
 🤖 Visiting Researcher at Kyoto University (LOTUS Program)  
