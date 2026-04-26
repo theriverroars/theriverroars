@@ -11,9 +11,9 @@ Robotics researcher and engineer working at the intersection of **reinforcement 
 🔎 Currently looking for opportunities in **robotics research, controls, and learning for autonomous systems**
 
 ## Currently Working On
-- Adaptive quadruped locomotion using CPGs + Bayesian Optimization  
+- Morphology independent quadruped locomotion framework using CPGs + Bayesian Optimization  
 - Generative dynamics models for contact-rich robot control  
-- Learning-enabled model predictive control for legged robots  
+- Learning-enabled model predictive control for gait adaptation in legged robots  
 
 ## Research Interests
 - Reinforcement Learning for Robotics  
@@ -42,7 +42,7 @@ Morphology-aware optimization of rhythmic locomotion controllers *(ongoing)*
 - [Dynamic Vibration Absorber Project](https://github.com/theriverroars/PDVA)
 
 ## Connect
-🌐 Website: https://YOUR-WEBSITE-LINK  
+🌐 Website: https://theriverroars.github.io/ganganairb.github.io  
 📚 Google Scholar: https://scholar.google.com/citations?user=oRh8FrgAAAAJ&hl=en  
 💼 LinkedIn: https://www.linkedin.com/in/ganga-nair-8b9014186/  
 📫 Email: ganga.nair.biju@gmail.com
